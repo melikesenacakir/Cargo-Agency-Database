@@ -11,3 +11,12 @@ The capacity of the vehicle is important in determining how much cargo can be tr
 The branch expenses include fuel oil cost, employee salary, cargo package cost, car inspection, and branch rent fee. Payment type (cash, card) and the time of purchasing are important to know and keep in the database.
 
 
+Some of the tables:
+
+![image](https://github.com/melikesenacakir/Cargo-Agency-Database/assets/115591143/48486c90-8599-4481-a955-3a7b41772cb6)
+
+
+![image](https://github.com/melikesenacakir/Cargo-Agency-Database/assets/115591143/4ff35ea3-554c-42d9-8f3f-120ec6880279)
+
+![image](https://github.com/melikesenacakir/Cargo-Agency-Database/assets/115591143/30d36668-09a7-4a05-af92-2b459ad0dc0f)
+
